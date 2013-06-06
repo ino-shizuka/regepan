@@ -1,5 +1,7 @@
 <?php 
 class Controller_Regetataki extends Controller
 {
-    return View::forge('regetataki/top');
+	public function action_index(){
+		return View::forge('regetataki/top');
+	}
 }

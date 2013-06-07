@@ -10,7 +10,7 @@
 	<A NAME="gamehead"></A>
 	<br>
 　　　　<h1>レゲパン叩き</h1>
-	<a href="howplay.html"><input type="button" value="遊び方"></a><br>
+	<a href="how.php"><input type="button" value="遊び方"></a><br>
 <a href='#gamehead' onClick='kaisi()'><input type="button" value="start"></a>
 <a href='#gamehead' onClick='syuryou()'><input type="button" value="stop"></a>
 <br>
